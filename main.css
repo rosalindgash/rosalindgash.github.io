@@ -1,0 +1,17 @@
+body {
+   background-color: seashell;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: deeppink;
+}
+
+a:link {
+    color: palevioletred
+}
+
+a:visited {
+    color: palevioletred;
+}
